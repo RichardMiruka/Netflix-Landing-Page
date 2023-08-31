@@ -32,7 +32,7 @@ Netflix Webpage Preview
 
 2. Navigate to the project directory:
    
-```cd netflix-clone```
+```cd Netflix-Landing-Page ```
 
 # Usage
 

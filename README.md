@@ -1,30 +1,33 @@
 # Netflix-Landing-Page
 A clone of the Netflix landing page with responsive design and interactive features.
 
-Table of Contents
-Description
-Preview
-Features
-Installation
-Usage
-Contributing
-License
-Description
+# Table of Contents
+* Description
+* Preview
+* Features
+* Installation
+* Usage
+* Contributing
+* License
+
+ # Description
+  
 This project is a clone of the Netflix landing page. It showcases HTML, CSS, and a bit of JavaScript to create a responsive and interactive webpage. The clone includes sections for signing in, highlighting features, frequently asked questions, and a footer with relevant links.
 
-Preview
+# Preview
 Netflix Webpage Preview
 
-Features
-Responsive design for various screen sizes.
-Interactive buttons and animations.
-Frequently Asked Questions section.
-Downloading feature with animations.
-Language selection dropdown.
-Footer with useful links.
-Installation
+# Features
+* Responsive design for various screen sizes.
+* Interactive buttons and animations.
+* Frequently Asked Questions section.
+* Downloading feature with animations.
+* Language selection dropdown.
+* Footer with useful links.
+
+# Installation
 Clone the repository:
-git clone https://github.com/your-username/netflix-clone.git
+``` git clone https://github.com/your-username/netflix-clone.git```
 Navigate to the project directory:
 cd netflix-clone
 Usage

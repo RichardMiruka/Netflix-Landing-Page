@@ -28,7 +28,7 @@ Netflix Webpage Preview
 # Installation
 1. Clone the repository:
 
-``` git clone https://github.com/your-username/netflix-clone.git```
+``` git clone https://github.com/RichardMiruka/Netflix-clone.git```
 
 2. Navigate to the project directory:
    

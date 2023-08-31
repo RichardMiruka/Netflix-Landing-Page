@@ -24,3 +24,20 @@ Language selection dropdown.
 Footer with useful links.
 Installation
 Clone the repository:
+git clone https://github.com/your-username/netflix-clone.git
+Navigate to the project directory:
+cd netflix-clone
+Usage
+Open index.html in a web browser to see the Netflix clone.
+Interact with the buttons and animations to explore the page.
+Feel free to modify the content, styles, and scripts to suit your needs.
+Contributing
+Contributions are welcome! If you find any issues or have ideas to enhance the project, feel free to open an issue or submit a pull request.
+
+Fork the project.
+Create your feature branch (git checkout -b feature/AmazingFeature).
+Commit your changes (git commit -m 'Add some AmazingFeature').
+Push to the branch (git push origin feature/AmazingFeature).
+Open a pull request.
+License
+This project is licensed under the MIT License.

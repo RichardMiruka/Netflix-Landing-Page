@@ -40,7 +40,7 @@ Netflix Webpage Preview
 2. Interact with the buttons and animations to explore the page.
 3. Feel free to modify the content, styles, and scripts to suit your needs.
 
-#Contributing
+# Contributing
 
 Contributions are welcome! If you find any issues or have ideas to enhance the project, feel free to open an issue or submit a pull request.
 
